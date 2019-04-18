@@ -3,12 +3,38 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://skyenet.gq/about/</loc>
+    <lastmod>2019-04-17T21:12:08-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://skyenet.gq/post/my-first-post/</loc>
+    <lastmod>2019-04-17T21:12:08-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://skyenet.gq/projects/</loc>
+    <lastmod>2019-04-17T21:12:08-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://skyenet.gq/social-media/</loc>
+  </url>
+  
+  <url>
     <loc>http://skyenet.gq/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
+    <loc>http://skyenet.gq/post/</loc>
+    <lastmod>2019-04-17T21:12:08-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://skyenet.gq/</loc>
+    <lastmod>2019-04-17T21:12:08-04:00</lastmod>
     <priority>0</priority>
   </url>
   
