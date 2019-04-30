@@ -1,10 +1,10 @@
 <package>
 	<id>gq.skyenet.aminonthelockscreen</id>
 	<name>Amin On The Lockscreen</name>
-	<version>0.0.1-20</version>
+	<version>0.0.1-21</version>
 	<compatibility>
 		<firmware>
-			<miniOS>9.3</miniOS>
+			<miniOS>10.1</miniOS>
 		</firmware>
 	</compatibility>
 	<dependencies>
@@ -13,12 +13,6 @@
 	<shortDescription>Have Amin on the lockscreen!</shortDescription>
 	<descriptionlist>
 		<description>This tweak overlays Amin's face ontop of everything.</description>
-		<description>It has more description lines.</description>
-		<description><![CDATA[
-		You can also have<br/>
-		a multi-line item.
-		]]>
-		</description>
 	</descriptionlist>
 	<screenshots>
 		<screenshot>
@@ -27,6 +21,7 @@
 		</screenshot>
 	</screenshots>
 	<changelog>
+		<change>0.0.1-21 -- Partial support for iOS 10 added</change>
 		<change>0.0.1-20 -- Add security features</change>
 		<change>0.0.1-15 -- Add Amin</change>
 	</changelog>

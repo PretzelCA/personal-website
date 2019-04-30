@@ -62,7 +62,7 @@
         },
         {
           "title": "Version",
-          "text": "0.0.1-20",
+          "text": "0.0.1-21",
           "class": "DepictionTableTextView"
         },
         {
@@ -99,7 +99,39 @@
     {
       "tabname": "Changelog",
       "views": [
-		{
+		    {
+          "title": "0.0.1-21",
+          "useBoldText": true,
+          "useBottomMargin": true,
+          "class": "DepictionSubheaderView"
+        },
+        {
+          "markdown": "\t\n\u2022 Partial support for iOS 10 added",
+          "useSpacing": false,
+          "class": "DepictionMarkdownView"
+        },
+        {
+          "markdown": "<small style=\"color: #999; margin-top: -8px;\">Released 2019/04/30</small>",
+          "useRawFormat": true,
+          "class": "DepictionMarkdownView"
+        },
+		    {
+          "title": "0.0.1-20",
+          "useBoldText": true,
+          "useBottomMargin": true,
+          "class": "DepictionSubheaderView"
+        },
+        {
+          "markdown": "\t\n\u2022 Add security features",
+          "useSpacing": false,
+          "class": "DepictionMarkdownView"
+        },
+        {
+          "markdown": "<small style=\"color: #999; margin-top: -8px;\">Released 2019/04/30</small>",
+          "useRawFormat": true,
+          "class": "DepictionMarkdownView"
+        },
+		    {
           "title": "0.0.1-15",
           "useBoldText": true,
           "useBottomMargin": true,
