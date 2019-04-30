@@ -40,6 +40,16 @@ I mostly program in JavaScript, although I can program in Python and Java.</desc
     </item>
     
     <item>
+      <title>Running Davinci Resolve on Arch</title>
+      <link>http://skyenet.gq/post/davinci-linux/</link>
+      <pubDate>Wed, 17 Apr 2019 21:12:08 -0400</pubDate>
+      
+      <guid>http://skyenet.gq/post/davinci-linux/</guid>
+      <description>Let me just start this post with this: oh god
+I wanted to run Davinci Resolve on my Arch Linux PC to do some video editing for a school project. Now you&amp;rsquo;re probably saying &amp;ldquo;Just use OpenShot, Kdenlive, or even Blender&amp;rdquo; and while yes that can edit, they&amp;rsquo;re not stable for me and are missing some features that I need/would like to have. So I decided to use Davinci Resolve, problem is that I never got it to work before.</description>
+    </item>
+    
+    <item>
       <title></title>
       <link>http://skyenet.gq/social-media/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
