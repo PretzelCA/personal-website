@@ -2,7 +2,7 @@
 title: "Running Davinci Resolve on Arch" 
 description: "My adventure with Davinci Resolve Beta 16 but on Arch Linux" 
 author: "Skye" 
-date: 2019-04-17T21:12:08-04:00 
+date: 2019-04-30T21:12:08-04:00 
 draft: false
 ---
 Let me just start this post with this: oh god
