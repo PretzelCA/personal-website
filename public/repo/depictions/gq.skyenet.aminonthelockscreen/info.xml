@@ -21,8 +21,6 @@
 		</screenshot>
 	</screenshots>
 	<changelog>
-		<change>0.0.1-21 -- Partial support for iOS 10 added</change>
-		<change>0.0.1-20 -- Add security features</change>
-		<change>0.0.1-15 -- Add Amin</change>
+		<change>Partial support for iOS 10 added</change>
 	</changelog>
 </package>
