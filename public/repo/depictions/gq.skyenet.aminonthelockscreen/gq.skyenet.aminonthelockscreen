@@ -1,6 +1,6 @@
 {
   "minVersion": "0.1",
-  "headerImage": "http://skyenet.gq/repo/SileoData/images/gq.skyenet.aminonthelockscreen/header.png",
+  "headerImage": "http://repo.skyenet.gq/SileoData/images/gq.skyenet.aminonthelockscreen/header.png",
   "tintColor": "",
   "tabs": [
     {
@@ -18,8 +18,8 @@
           "screenshots": [
             {
               "accessibilityText": "Screenshot",
-              "url": "http://skyenet.gq/repo/SileoData/images/gq.skyenet.aminonthelockscreen/screenshot1.png",
-              "fullSizeURL": "http://skyenet.gq/repo/SileoData/images/gq.skyenet.aminonthelockscreen/screenshot1.png"
+              "url": "http://repo.skyenet.gq/SileoData/images/gq.skyenet.aminonthelockscreen/screenshot1.png",
+              "fullSizeURL": "http://repo.skyenet.gq/SileoData/images/gq.skyenet.aminonthelockscreen/screenshot1.png"
             }
           ],
           "ipad": {
@@ -28,8 +28,8 @@
             "screenshots": [
               {
                 "accessibilityText": "Screenshot",
-                "url": "http://skyenet.gq/repo/SileoData/images/gq.skyenet.aminonthelockscreen/screenshot1.png?size=640",
-                "fullSizeURL": "http://skyenet.gq/repo/SileoData/images/gq.skyenet.aminonthelockscreen/screenshot1.png"
+                "url": "http://repo.skyenet.gq/SileoData/images/gq.skyenet.aminonthelockscreen/screenshot1.png?size=640",
+                "fullSizeURL": "http://repo.skyenet.gq/SileoData/images/gq.skyenet.aminonthelockscreen/screenshot1.png"
               }
             ],
             "class": "DepictionScreenshotView"
