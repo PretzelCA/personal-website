@@ -92,6 +92,10 @@
         {
           "spacing": 20,
           "class": "DepictionSpacerView"
+        },
+        {
+          "title": "Skyenet",
+          "class": "DepictionHeaderView"
         }
       ],
       "class": "DepictionStackView"
