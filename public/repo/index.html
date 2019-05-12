@@ -1,38 +1,40 @@
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html lang="en">
 <head>
-  <title>Skyenet</title>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
-  <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+    <title>Skyenet</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+    <link rel="stylesheet" href="https://static2.sharepointonline.com/files/fabric/office-ui-fabric-js/1.4.0/css/fabric.min.css" />
+    <link rel="stylesheet" href="https://static2.sharepointonline.com/files/fabric/office-ui-fabric-js/1.4.0/css/fabric.components.min.css" />
+    <script src="https://static2.sharepointonline.com/files/fabric/office-ui-fabric-js/1.4.0/js/fabric.min.js"></script>
 </head>
-<body>
+    <body class="ms-Fabric" dir="ltr">
+        <div class="container">
+	        <h1 class="ms-font-su ms-fontColor-themePrimary"><img src="CydiaIcon.png" height="100px" width="100px"> Skyenet</h1>
+        </div>
+        <div class="container">
+            <div class="well">
+                <button class="ms-Button ms-Button--primary">
+                    <a href="cydia://url/https://cydia.saurik.com/api/share#?source=https://repo.skyenet.gq/"><span class="ms-Button-label">Add to Cyida </span></a>
+                </button>
+            </div>
+        </div>
 
-<div class="container">
-	<h1><img src="CydiaIcon.png" height="100px" width="100px">Skyenet</h1>
-</div>
-
-<div class="container">
-	<div class="well">
-		<p><span class="text-primary"><b>Skyenet</span></b></p>
-		<a class="btn btn-sm btn-default" href="cydia://url/https://cydia.saurik.com/api/share#?source=http://skyenet.gq/repo/">Add to Cydia</a>
-	</div>
-</div>
-
-<div class="container">
-  <h3 id="wells" class="page-header">Featured Packages</h3>
-</div>
-
-<div class="container">
-	<div class="panel panel-default">
-	  <div class="panel-heading">Amin On The Lockscreen</div>
-	  <div class="panel-body">
-		Have Amin on the lockscreen!<br /><br />
-		<a class="btn btn-xs btn-default" href="depictions/?p=gq.skyenet.aminonthelockscreen">More info</a>
-	  </div>
-	</div>
-</div>
-
-</body>
+        <div class="container">
+          <h3 id="wells" class="page-header">Featured Packages</h3>
+        </div>
+        <div class="container">
+	        <div class="panel panel-default">
+	          <div class="panel-heading">Amin On The Lockscreen</div>
+	          <div class="panel-body">
+		        Have Amin on the lockscreen!<br /><br />
+                <button class="ms-Button ms-Button--small">
+ 		           <a href="depictions/?p=gq.skyenet.aminonthelockscreen">More info</a>
+                </button>
+	          </div>
+	        </div>
+        </div>
+    </body>
 </html>
