@@ -5,9 +5,21 @@
     "banners":[
        {  
           "url":"https://repo.skyenet.gq/SileoData/images/gq.skyenet.aminonthelockscreen/header.png",
-          "title":"AminOnTheLockscreen",
+          "title":"AOTL",
           "package":"gq.skyenet.aminonthelockscreen",
           "hideShadow":false
-       }
+       },
+       {  
+        "url":"https://repo.skyenet.gq/SileoData/images/gq.skyenet.aminonthelockscreen/header.png",
+        "title":"AOTL",
+        "package":"gq.skyenet.aminonthelockscreen",
+        "hideShadow":false
+     },
+     {  
+        "url":"https://repo.skyenet.gq/SileoData/images/gq.skyenet.aminonthelockscreen/header.png",
+        "title":"AOTL",
+        "package":"gq.skyenet.aminonthelockscreen",
+        "hideShadow":false
+     }
     ]
  }
